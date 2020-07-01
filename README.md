@@ -1,0 +1,2 @@
+# LatihanPolyCollection_2
+tugas LatihanPolyCollection_2
